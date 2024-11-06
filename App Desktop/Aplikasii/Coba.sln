@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coba", "Coba\Coba.csproj", "{D87B2791-B970-44FD-8D24-5585A1283F5D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "App Faqih", "App Faqih\App Faqih.vdproj", "{50368A38-9D94-45D2-B15E-1AFE2D2E94A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D87B2791-B970-44FD-8D24-5585A1283F5D}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D87B2791-B970-44FD-8D24-5585A1283F5D}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D87B2791-B970-44FD-8D24-5585A1283F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87B2791-B970-44FD-8D24-5585A1283F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50368A38-9D94-45D2-B15E-1AFE2D2E94A3}.Debug|Any CPU.ActiveCfg = Debug
+		{50368A38-9D94-45D2-B15E-1AFE2D2E94A3}.Release|Any CPU.ActiveCfg = Release
+		{50368A38-9D94-45D2-B15E-1AFE2D2E94A3}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7EC2A4E-D041-4EE9-9552-3806916FCA55}
+	EndGlobalSection
+EndGlobal
